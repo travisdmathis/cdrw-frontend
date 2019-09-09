@@ -1,0 +1,51 @@
+body {
+    background-color: #eef0f1;
+}
+.container-fluid {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.navbar {
+    padding: 0px;
+    background: linear-gradient(to right,#eef0f1 50%, #cccccc 50%) !important;
+}
+
+.header-container {
+    margin-top: -5rem;
+    height: 15rem;
+    color: rgb(71, 68, 68);
+    background: linear-gradient(to right,#eef0f1 50%, #cccccc 50%) !important;
+
+}
+
+.logo {
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.header-nav {
+    font-size: 24px !important;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.content-container {
+    margin-top: 10rem;
+}
+
+label {
+    color: rgb(71, 68, 68);
+    font-weight: 700;
+    margin-right: 1.5rem;
+}
+
+.data-table {
+    border: 1px solid rgb(71, 68, 68);
+    border-radius: 8px;
+}
+
+.btn-success, .btn-success:hover, .btn-success:active {
+    background-color: rgb(71,68,68);
+    border: 1px solid rgb(71, 68, 68);
+}
